@@ -31,7 +31,7 @@
 #text(size: 11pt)[#strong[Senior Software Engineer]], June 2025 - Present \
 #strong[Swile], Paris, France (Hybrid) \
 - Part of the Payment Experience team, building the link between users and the underlying payment system
-- Collaborate with cross-functional teams to deliver seamless payment integration features
+- Collaborated with cross-functional teams to deliver seamless payment integration features
 - Helped scale the platform, reducing incidents from multiple per month to 0, reduced infrastructure costs by 50%, and improved system latency to sub-100ms
 - Promoted engineering best practices
 

@@ -1,1 +1,6 @@
+# Ignore the old PDF location
 resume.pdf
+
+# Ignore everything in builds except .gitkeep
+builds/*
+!builds/.gitkeep

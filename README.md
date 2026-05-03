@@ -4,7 +4,7 @@ Typst resume with GitHub Pages landing page.
 
 ## Prerequisites
 
-- [Typst](https://typst.org) - Document compiler
+- [typst](https://github.com/typst/typst) - Document compiler
 - [poppler-utils](https://poppler.freedesktop.org) - For `pdftotext` (PDF to text conversion)
 - Python 3 (optional, for local testing)
 

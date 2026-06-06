@@ -41,7 +41,7 @@
 #strong[Voodoo.io], Paris, France (Remote) \
 - Part of the VoodooTune team, building a remote game configuration platform enabling A/B testing on specific player cohorts for mobile games publishers
 - Built initial system for real-time remote game parameter adjustment to improve player experience without app store updates
-- Developed A/B testing engine optimizing player engagement, retention, and monetization
+- Developed an A/B testing engine optimizing player engagement, retention, and monetization
 - Scaled platform to support millions of concurrent players with low latency
 - Wrote article: #link("https://medium.com/voodoo-engineering/voodoo-tune-how-to-set-up-games-remotely-dc47d74e0117")[Voodoo Tune — How to set up games remotely] (Medium)
 

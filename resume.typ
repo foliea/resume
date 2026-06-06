@@ -98,7 +98,7 @@ Growth Hacking, Paris, France
 == Projects
 
 #strong[Grounds], Sep 2014 - May 2015 \
-- Open-source developer tool to share runnable code snippets across 10+ languages (#link("https://github.com/grounds")[GitHub])
+- Open-source developer tool to share runnable code snippets across 10+ languages (#link("https://github.com/grounds")[GitHub] · #link("https://www.youtube.com/watch?v=O170SC0j1aA&t=224s")[Demo])
 - Built isolated code runners using Docker for secure, reproducible execution
 - Winner: Docker Global Hackday Paris (Nov 2014)
 - Presented at Paris.rb, Golang Paris, and Docker Paris meetups

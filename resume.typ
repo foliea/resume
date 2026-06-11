@@ -66,7 +66,7 @@
 #text(size: 11pt)[#strong[Co-founder & Lead Engineer]], May 2015 - Oct. 2016 \
 #strong[Deckie], Paris, France \
 - Designed and built a platform allowing users to connect and meet IRL to play board games, cards, and role-play sessions
-- Led 6-month MVP development with 2-month post-release support; pitched to NUMA startup accelerator
+- Led a 6-month MVP development with 2-month post-release support; pitched to NUMA startup accelerator
 - Launched live platform, gained extensive technical and entrepreneurial experience despite lacking marketing expertise to scale
 
 #v(8pt)

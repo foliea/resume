@@ -10,7 +10,7 @@ echo "Compiling Typst to PDF..."
 typst compile resume.typ "$BUILDS_DIR/resume.pdf"
 
 echo "Converting PDF to plain text..."
-pdftotext "$BUILDS_DIR/resume.pdf" "$BUILDS_DIR/resume.txt"
+pdftotext -nopgbrk "$BUILDS_DIR/resume.pdf" "$BUILDS_DIR/resume.txt"
 
 echo "Build complete!"
 echo "  PDF: $BUILDS_DIR/resume.pdf"

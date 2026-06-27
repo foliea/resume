@@ -7,7 +7,7 @@ BUILDS_DIR="$PWD/builds"
 echo "Building resume..."
 
 echo "Compiling Typst to PDF..."
-typst compile resume.typ "$BUILDS_DIR/resume.pdf"
+typst compile --font-path vendor resume.typ "$BUILDS_DIR/resume.pdf"
 
 echo "Converting PDF to plain text..."
 pdftotext -nopgbrk "$BUILDS_DIR/resume.pdf" "$BUILDS_DIR/resume.txt"

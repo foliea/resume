@@ -92,8 +92,9 @@ Growth Hacking, Paris, France
 == Skills
 
 *Programming Languages:* Ruby, JavaScript, TypeScript, Go \
-*Frameworks & Tools:* Ruby on Rails, Nest.js, Docker, Kubernetes, Terraform \
-*Other:* AWS, Postgres, MySQL, DynamoDB
+*Frameworks & Tools:* Ruby on Rails, Nest.js, Fastify, Express.js, Sidekiq, BullMQ \
+*Platform:* Docker, Kubernetes, Terraform, Helm \
+*Other:* AWS (S3, SQS, DynamoDB), Postgresql, MySQL, Redis
 
 == Projects
 
